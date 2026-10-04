@@ -3,28 +3,28 @@ format: html
 toc: true
 toc-location: right
 toc-depth: 4
-sidebar: false
 ---
-![](images/WebsiteBanner.png){width="100%"}
 
 <div style="text-align: right;">
 [![AGPL-3.0][agpl3-shield]][agpl3]
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 </div>
 
-# Cytek DC/Metro User Group Meeting - Why Not Both
+## Abstract
 
-This is the repository for our Cytek DC/Metro User Group Meeting. 
+**"Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples".**
 
-Click [here]() to navigate to the .pdf of the slides, which can be downloaded. 
+David Rach1
 
-For our Cytometry in R course, click [here](https://umgcccfcsr.github.io/CytometryInR/course/). 
+Flow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, USA 
 
-# GitHub repository organization. 
+As spectral panels grow increasingly complex, unlocking their full potential for biological discovery depends on our ability to handle uncertainty, and systematically profile the higher-dimensional space. Leveraging open-source tools, we share our approach at tackling these challenges for rare clinical cohorts acquired on our core's Cytek Auroras. 
 
-The code to generate QR codes and extract survey comments in R can be found under the code_poster folder. Actual QR codes generated can be found under outputs folder. Images used that were brought in from other sources can be found in the images folder. 
+[Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) 
+Talk will be on **October 28, 2026**
 
-# License
+
+## License
 
 In our commitment to open-science and open-source, all teaching materials are freely offered under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license, while all code examples are offered under the [AGPL3-0](https://www.gnu.org/licenses/agpl-3.0.en.html) copyleft license. 
 

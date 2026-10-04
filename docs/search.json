@@ -1,9 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cytek DC/Metro User Group Meeting - Why Not Both",
-    "section": "",
-    "text": "Cytek DC/Metro User Group Meeting - Why Not Both\nThis is the repository for our Cytek DC/Metro User Group Meeting.\nClick here to navigate to the .pdf of the slides, which can be downloaded.\nFor our Cytometry in R course, click here.\n\n\nGitHub repository organization.\nThe code to generate QR codes and extract survey comments in R can be found under the code_poster folder. Actual QR codes generated can be found under outputs folder. Images used that were brought in from other sources can be found in the images folder.\n\n\nLicense\nIn our commitment to open-science and open-source, all teaching materials are freely offered under a CC-BY-SA license, while all code examples are offered under the AGPL3-0 copyleft license."
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "David Rach",
+    "section": "Abstract",
+    "text": "Abstract\n“Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples”.\nDavid Rach1\nFlow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, USA\nAs spectral panels grow increasingly complex, unlocking their full potential for biological discovery depends on our ability to handle uncertainty, and systematically profile the higher-dimensional space. Leveraging open-source tools, we share our approach at tackling these challenges for rare clinical cohorts acquired on our core’s Cytek Auroras. \nCode Talk will be on October 28, 2026"
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "David Rach",
+    "section": "License",
+    "text": "License\nIn our commitment to open-science and open-source, all teaching materials are freely offered under a CC-BY-SA license, while all code examples are offered under the AGPL3-0 copyleft license."
   }
 ]
