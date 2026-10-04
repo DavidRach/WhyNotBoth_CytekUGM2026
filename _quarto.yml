@@ -3,35 +3,53 @@ project:
   output-dir: docs
 website:
   google-analytics: "G-LZ35J3XE4D"
+  title: "David Rach"
+  page-navigation: true 
+  site-path: "/WhyNotBoth_CytekUGM2026/"
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Thanks for investigating our poster"
+    content: "Thanks for investigating further!"
     type: info
     position: below-navbar 
-  page-navigation: true 
-  title: "David Rach"
-  site-path: "/WhyNotBoth_CytekUGM2026/"
   navbar:
     logo: images/hex.svg
     background: white
     left:
       - text: "Home"
-        href: index.qmd      
+        href: https://davidrach.github.io/      
+      - text: Slides
+        href: index.qmd
     right:
-    - text: Slides
-      href: index.qmd
-    - icon: youtube
-      href: https://www.youtube.com/@CytometryInR
-      aria-label: YouTube
-    - icon: github
-      href: https://github.com/DavidRach/WhyNotBoth_CytekUGM2026
-      aria-label: GitHub
+      - href: https://davidrach.github.io/about.html
+        text: About
+      - text: Research
+        menu: 
+          - href: https://davidrach.github.io/courses.html
+            text: Courses
+          - href: https://davidrach.github.io/publications.html
+            text: Papers
+          - href: https://davidrach.github.io/talks.html
+            text: Talks
+          - href: https://davidrach.github.io/research.html
+            text: Research
+          - href: https://davidrach.github.io/software.html
+            text: Software
+      - href: https://davidrach.github.io/Resume_2026.pdf
+        text: Resume
+      - href: https://davidrach.github.io/posts.html
+        text: Blog
+      - icon: youtube
+        href: https://www.youtube.com/@StepUpCytometry
+        aria-label: YouTube
+      - icon: github
+        href: https://github.com/DavidRach/
   page-footer: 
    left: Made with [Quarto](https://quarto.org/)
    right: |
     ![AGPL-3.0](/images/AGPL3.png)
     ![CC-BY-SA](/images/CCBYSA.png)
+    View [Website Code](https://github.com/DavidRach/DavidRach.github.io)
 format:
   html:
     css: styles.css
