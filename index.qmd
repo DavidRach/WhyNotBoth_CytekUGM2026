@@ -21,6 +21,7 @@ Flow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive 
 As spectral panels grow increasingly complex, unlocking their full potential for biological discovery depends on our ability to handle uncertainty, and systematically profile the higher-dimensional space. Leveraging open-source tools, we share our approach at tackling these challenges for rare clinical cohorts acquired on our core's Cytek Auroras. 
 
 [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) 
+[Slides](/Rach_WhyNotBoth_CytekUGM2026.pdf)
 Talk will be on **October 28, 2026**
 
 

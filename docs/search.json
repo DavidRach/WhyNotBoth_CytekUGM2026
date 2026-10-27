@@ -4,7 +4,7 @@
     "href": "index.html#abstract",
     "title": "David Rach",
     "section": "Abstract",
-    "text": "Abstract\n“Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples”.\nDavid Rach1\nFlow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, USA\nAs spectral panels grow increasingly complex, unlocking their full potential for biological discovery depends on our ability to handle uncertainty, and systematically profile the higher-dimensional space. Leveraging open-source tools, we share our approach at tackling these challenges for rare clinical cohorts acquired on our core’s Cytek Auroras. \nCode Talk will be on October 28, 2026"
+    "text": "Abstract\n“Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples”.\nDavid Rach1\nFlow Cytometry Shared Resource, University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, USA\nAs spectral panels grow increasingly complex, unlocking their full potential for biological discovery depends on our ability to handle uncertainty, and systematically profile the higher-dimensional space. Leveraging open-source tools, we share our approach at tackling these challenges for rare clinical cohorts acquired on our core’s Cytek Auroras. \nCode Slides Talk will be on October 28, 2026"
   },
   {
     "objectID": "index.html#license",
