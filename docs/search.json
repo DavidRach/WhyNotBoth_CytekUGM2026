@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "QRCodes.html",
+    "href": "QRCodes.html",
+    "title": "QR Codes",
+    "section": "",
+    "text": "Setup Code\n\nlibrary(qrcode)\n\n\nQR_Helper &lt;- function(url, output, filename){\n\ncode &lt;- qr_code(url)\n\nTheFileName  &lt;- paste0(filename, \".svg\")\n\nStoreHere &lt;- file.path(output, TheFileName)\n\ngenerate_svg(code, filename = StoreHere)\n#plot(code)\n}\n\n\n\nSlides\nLink\n\nQR_Helper(url=\"https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf\",\n    output=\"outputs\", \n    filename=\"Slides\")"
+  },
+  {
     "objectID": "index.html#abstract",
     "href": "index.html#abstract",
     "title": "David Rach",

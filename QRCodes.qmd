@@ -1,0 +1,37 @@
+---
+title: "QR Codes"
+format: html
+eval: FALSE
+---
+
+# Setup Code
+
+```{r}
+library(qrcode)
+```
+
+```{r}
+QR_Helper <- function(url, output, filename){
+
+code <- qr_code(url)
+
+TheFileName  <- paste0(filename, ".svg")
+
+StoreHere <- file.path(output, TheFileName)
+
+generate_svg(code, filename = StoreHere)
+#plot(code)
+}
+```
+
+
+# Slides
+
+[Link](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf)
+
+```{r}
+QR_Helper(url="https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf",
+    output="outputs", 
+    filename="Slides")
+```
+
